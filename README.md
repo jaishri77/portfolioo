@@ -1,1 +1,154 @@
-# portfolioo
+# Ex01 Portfolio
+## Date:
+
+## AIM
+To create a Portfolio using HTML and CSS.
+
+## ALGORITHM
+### STEP 1
+Create an HTML file (index.html)
+
+### STEP 2
+Create a CSS file (style.css)
+
+### STEP 3
+Include a navigation bar with links to different sections.
+
+### STEP 4
+Add structured sections for introduction, about, projects, and contact details.
+
+### STEP 5
+Define global styles for fonts, colors, and layout.
+
+### STEP 6
+Style the header, navigation bar, and sections.
+
+### STEP 7
+Use Flexbox or CSS Grid for layout design.
+
+### STEP 8
+Add hover effects and transitions for interactivity.
+
+### STEP 9
+Add Images and Media.
+
+### STEP 10
+Use optimized images for a professional look.
+
+### STEP 11
+Open the HTML file in a browser to check layout and functionality.
+
+### STEP 12
+Fix styling issues and refine content placement.
+
+### STEP 13
+Deploy the Portfolio.
+
+### STEP 14
+Upload to GitHub Pages for free hosting.
+
+## PROGRAM
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+
+    <header>
+        <h1>My Portfolio</h1>
+        <p>Welcome to my personal portfolio!</p>
+
+        <nav>
+            <a href="#home">Home</a> |
+            <a href="#about">About</a> |
+            <a href="#skills">Skills</a> |
+            <a href="#projects">Projects</a> |
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <hr>
+
+    <main>
+        <section id="home">
+            <h2>Hello, I'm JAYASREE T S</h2>
+            <h3>Computer Science Engineering Student</h3>
+            <p>
+                I am an aspiring software developer who loves
+                programming, web development and artificial intelligence.
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="about">
+            <h2>About Me</h2>
+            <p>
+                I am a CSE student interested in learning new technologies
+                and developing creative solutions to real-world problems.
+                My goal is to become a skilled software engineer.
+            </p>
+        </section>
+
+        <hr>
+
+        <section id="skills">
+            <h2>My Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>Java</li>
+                <li>Python</li>
+                <li>JavaScript</li>
+                <li>React</li>
+                <li>SQL</li>
+            </ul>
+        </section>
+
+        <hr>
+
+        <section id="projects">
+            <h2>My Projects</h2>
+
+            <h3>1. Foodie App</h3>
+            <p>A food ordering website with a shopping cart.</p>
+
+            <h3>2. AI Detective Game</h3>
+            <p>A mystery game involving cases, clues and suspects.</p>
+
+            <h3>3. Skill Analyzer</h3>
+            <p>A system that recommends skills and career learning paths.</p>
+        </section>
+
+        <hr>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Email: <a href="https://github.com/jaishri77">Visit my GitHub</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/jayasree-venkat-a5319b32a">Visit my LinkedIn</a></p>
+        </section>
+    </main>
+
+    <hr>
+
+    <footer>
+        <p>Copyright 2026 | Your Name</p>
+    </footer>
+
+</body>
+</html>
+```
+
+
+## OUTPUT
+
+![alt text](image.png)
+![alt text](image-1.png)
+
+
+
+## RESULT
+The program for creating Portfolio using HTML and CSS is executed successfully.
